@@ -207,7 +207,6 @@ available are:
 * `limit`
 * `skip`
 * `sort`
-* `select`
 
 ### Limit
 
